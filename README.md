@@ -1,2 +1,3 @@
-# Estudos Algoritmo e Logica
- Repositório Voltado para estudos de Logiza e Algoritmo
+# Estudos Algoritmo e Lógica de Programação.
+
+ Repositório Voltado para estudos de Lógica e Algoritmo.
